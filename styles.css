@@ -1,1 +1,18 @@
-css file
+body {
+    font-size: 16px;
+    color: #fff;
+    background-color: bisque;
+    font-family: 'Oxygen', sans-serif;
+}
+
+/**navbar**/
+#header-nav {
+    background-color: aquamarine;
+    border-radius: 0;
+    border: 0;
+}
+/*md screens*/
+
+/*sm screens*/ 
+
+/*xs screens*/
